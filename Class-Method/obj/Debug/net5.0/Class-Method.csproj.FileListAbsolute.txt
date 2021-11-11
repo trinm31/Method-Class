@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/bin/Debug/net5.0/Class-Method.deps.json
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/bin/Debug/net5.0/Class-Method.runtimeconfig.json
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/bin/Debug/net5.0/Class-Method.runtimeconfig.dev.json
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/bin/Debug/net5.0/Class-Method.dll
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/bin/Debug/net5.0/ref/Class-Method.dll
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/bin/Debug/net5.0/Class-Method.pdb
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/obj/Debug/net5.0/Class-Method.csproj.AssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/obj/Debug/net5.0/Class-Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/obj/Debug/net5.0/Class-Method.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/obj/Debug/net5.0/Class-Method.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/obj/Debug/net5.0/Class-Method.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/obj/Debug/net5.0/Class-Method.dll
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/obj/Debug/net5.0/ref/Class-Method.dll
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/obj/Debug/net5.0/Class-Method.pdb
+/Users/nguyenminhtri/RiderProjects/Class-Method/Class-Method/obj/Debug/net5.0/Class-Method.genruntimeconfig.cache
